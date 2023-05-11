@@ -1,7 +1,8 @@
 # Hello!
 | I can use | I'm studying |
 | - | - |
-| Javascript | Java |
+| JavaScript | Java |
+| TypeScript | PHP |
 | Python | Go |
 | HTML | C# |
 | CSS | |
