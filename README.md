@@ -1,5 +1,5 @@
 # Hello!
-| I can use | I'm studying |
+| can use | studying |
 | - | - |
 | JavaScript | Java |
 | TypeScript | PHP |
