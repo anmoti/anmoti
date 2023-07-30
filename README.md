@@ -76,13 +76,13 @@
               <tr><td align="center">Wataten!: An Angel Flew Down to Me</td>
               <tr><td align="center">Loving Yamada at Lv999!</td>
               <tr><td align="center">【Oshi No Ko】</td>
-              <tr><td align="center">The Quintessential Quintuplets (五等分の花嫁)</td>
-              <tr><td align="center">Handyman Saitō in Another World</td>
-              <tr><td align="center">Rascal Does Not Dream (青春ブタ野郎)</td>
+              <tr><td align="center">Gotobun: The Quintessential Quintuplets</td>
+              <tr><td align="center">Saitosan: Handyman Saito in Another World</td>
+              <tr><td align="center">Aobuta: Rascal Does Not Dream</td>
               <tr><td align="center">Onimai: I'm Now Your Sister!</td>
               <tr><td align="center">Lycoris Recoil</td>
               <tr><td align="center">Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense.</td>
-              <tr><td align="center">The Angel Next Door Spoils Me Rotten (お隣の天使様)</td>
+              <tr><td align="center">Otonarinotenshisama: The Angel Next Door Spoils Me Rotten</td>
               <tr><td align="center">Kubo Won't Let Me Be Invisible</td>
               <tr><td align="center">Bocchi the Rock!</td>
               <tr><td align="center">SPY&times;FAMILY</td>
